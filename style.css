@@ -1,0 +1,77 @@
+.header
+{
+    color: #AAA;
+    margin: 59px 0 50 140px;
+    font-weight: 600
+}
+
+.hr
+{
+    height: 1px;
+    margin: auto;
+    width: 82%;
+    background-color: #AAA
+}
+
+.one
+{
+    height: 352px !important;
+    background-color: #EEE;
+    margin-top: 15px;
+    width: 79%
+}
+
+.design
+{
+    padding: 40px;
+    text-align: center
+}
+
+.name
+{
+    width: 85%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+::-webkit-input-placeholder
+{
+    padding: 10px;
+}
+
+.cls
+{
+    background-color: #1167c4
+}
+
+.cls:hover
+{
+    background-color: #0a3f77;
+}
+
+.shadow:hover
+{
+    box-shadow: 2px 5px 3px 0px #888 !important
+}
+
+.inpShadow:hover
+{
+    box-shadow: 0px 0px 12px -7px #888 !important
+}
+
+p
+{
+    color: #AAA
+}
+
+.container
+{
+    font-weight: bold;
+}
+
+.new
+{
+    width: 500px !important;
+    height: 500px !important;
+    background-color: red !important
+}
